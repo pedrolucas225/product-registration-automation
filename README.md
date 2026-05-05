@@ -90,6 +90,4 @@ automacao-cadastro-de-produtos/
 
 Credentials are stored in a `.env` file which is excluded from version control via `.gitignore`. Never commit or share this file.
 
----
 
-## Author
