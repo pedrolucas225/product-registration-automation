@@ -1,0 +1,21 @@
+# Credenciais
+.env
+
+# Arquivo de dados
+produtos.csv
+
+# Ambiente virtual Python
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
